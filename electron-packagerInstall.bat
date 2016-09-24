@@ -1,0 +1,1 @@
+npm install electron-packager --save-dev
