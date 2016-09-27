@@ -1,2 +1,2 @@
 # MyStore
-For Experimental/Research Purposes
+For Experimental/Research Purposes. I have updated readme file.
