@@ -6,6 +6,6 @@ function createWindow(){
       width : 600
 
       });
-    win.loadURL('C:/rahul/Electron/HelloWorld/index.html');//you can choose your own path
+    win.loadURL('Drive:/path/to/HelloWorld/index.html');//you can choose your own path
 }
 app.on('ready', createWindow);
